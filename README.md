@@ -40,9 +40,17 @@ I am a Full Stack Developer in the eastern United States
 
 ### :bar_chart: Stats : 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BabySparta&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=BabySparta&theme=dark&background=000000" alt="GitHub Streak">
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BabySparta&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabySparta&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
+  </a>
+</p>
 
 
 
